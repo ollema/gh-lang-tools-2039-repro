@@ -1,38 +1,22 @@
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+```
+  System:
+    OS: macOS 13.4
+    CPU: (10) arm64 Apple M1 Pro
+    Memory: 126.08 MB / 32.00 GB
+    Shell: 3.6.4 - /run/current-system/sw/bin/fish
+  Binaries:
+    Node: 21.5.0 - /etc/profiles/per-user/s0001325/bin/node
+    npm: 10.2.4 - /etc/profiles/per-user/s0001325/bin/npm
+    pnpm: 8.14.1 - ~/Library/pnpm/pnpm
+  Browsers:
+    Chrome: 121.0.6167.85
+    Safari: 16.5
+  npmPackages:
+    @sveltejs/adapter-auto: ^3.0.0 => 3.1.1
+    @sveltejs/kit: ^2.0.0 => 2.5.0
+    @sveltejs/vite-plugin-svelte: ^3.0.0 => 3.0.2
+    svelte: ^4.2.7 => 4.2.9
+    vite: ^5.0.3 => 5.0.12
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Svelte for VS Code version: v108.2.1
